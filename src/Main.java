@@ -11,6 +11,7 @@ public class Main {
         number[1]=2;
         number[2]=3;
 
+
         double[] number2;
         number2 = new double[]{1.57, 7.654, 9.986};
 
